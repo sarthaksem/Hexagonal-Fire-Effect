@@ -2,7 +2,7 @@
 This project is a mesmerizing hexagonal fire effect implemented in [insert programming language or framework]. It creates a visually stunning display resembling a fiery inferno using hexagonal shapes.
 
 ## Features
-• Realistic Fire Simulation: The hexagonal fire effect simulates the appearance of flickering flames with a dynamic color palette.
+• Realistic Fire Simulation: The hexagonal fire effect simulates the appearance of flickering flames with a dynamic color palette.\n
 • Customizable Parameters: Adjust parameters such as flame intensity, color gradients, and animation speed to create different fire effects.
 • Hexagonal Grid: Utilizes a hexagonal grid layout to produce a unique and visually appealing fire animation.
 
