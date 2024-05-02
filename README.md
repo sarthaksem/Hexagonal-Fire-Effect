@@ -1,23 +1,42 @@
 # Hexagonal Fire Effect
-This project is a mesmerizing hexagonal fire effect implemented in [insert programming language or framework]. It creates a visually stunning display resembling a fiery inferno using hexagonal shapes.
+
+This is a simple website showcasing a mesmerizing hexagonal fire effect created using HTML, CSS, and JavaScript. The effect simulates a fiery pattern within hexagonal shapes, providing an eye-catching visual experience for users.
 
 ## Features
-• Realistic Fire Simulation: The hexagonal fire effect simulates the appearance of flickering flames with a dynamic color palette.
-• Customizable Parameters: Adjust parameters such as flame intensity, color gradients, and animation speed to create different fire effects.
-• Hexagonal Grid: Utilizes a hexagonal grid layout to produce a unique and visually appealing fire animation.
 
-## Installation
-To run the hexagonal fire effect locally, follow these steps:
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Open the index.html file in your web browser.
+- Hexagonal Grid: The website displays a grid of hexagons, providing a unique layout for the fire effect.
+- Dynamic Fire Effect: The fire effect within each hexagon is dynamically generated using JavaScript, creating a realistic and mesmerizing animation.
+- Customizable Parameters: You can easily customize parameters such as the intensity and color of the fire effect to suit your preferences.
+- Responsive Design: The website is designed to be responsive, ensuring optimal viewing experience across various devices and screen sizes.
 
 ## Usage
-• Customization: Modify the parameters in the code to customize the appearance of the fire effect according to your preferences.
-• Integration: Incorporate the hexagonal fire effect into your projects by including the necessary files and integrating the code into your HTML.
 
-## Contributions
-Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+1. Clone this repository to your local machine using
+   ```bash
+     git clone https://github.com/sarthaksem/hexagonal-fire-effect.git
+   ```
+2. Open `index.html` in your web browser to view the landing page.
+3. Customize the content and styles to suit your needs.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create your feature branch
+   ```bash
+     git checkout -b feature/YourFeature
+   ```
+3. Commit your changes
+   ```bash
+     git commit -am 'Add some feature'
+   ```
+4. Push to the branch
+   ```bash
+     git push origin feature/YourFeature
+   ```
+5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the [MIT License](LICENSE).
